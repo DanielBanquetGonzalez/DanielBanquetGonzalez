@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, me llamo Daniel Alberto Banquet Gonzalez</h1>
 <h3 align="center">Desarrollador frontend</h3>
 
+- 📫 How to reach me **danielmistic34@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
