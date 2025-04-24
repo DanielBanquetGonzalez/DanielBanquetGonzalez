@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **danielmistic34@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Me pueden contactar por e-mail:</h3>
 <p align="left">
 </p>
 
